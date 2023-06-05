@@ -1,4 +1,4 @@
-#pip install PyPDF2
+#used external module-->PyPDF2
 from PyPDF2 import PdfMerger
 pdfs = []
 num = int(input("enter the no of pdf files you want to merge\n"))
